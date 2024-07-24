@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Atique Kondvilkar</h1>
 <h3 align="center">Innovative Robotics Engineer with a robust background in both theoretical and practical aspects of robotics engineering, fortified by hands-on experience in mechanical designing, microcontroller applications, data science and process automation.</h3>
 
+<img aling="right" alt="robot" width="400" src="https://www.google.co.in/url?sa=i&url=https%3A%2F%2Fgraphicmama.com%2Fanimated-gif%2Fflying-robot-animated-gifs-collection&psig=AOvVaw1twu5X1bD2JNVdrSDMykG5&ust=1721906864989000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCICcgI_Jv4cDFQAAAAAdAAAAABBB">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atiqueak&label=Profile%20views&color=0e75b6&style=flat" alt="atiqueak" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=atiqueak" alt="atiqueak" /></a> </p>
