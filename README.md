@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **kondvilkaratique2@gmail.com**
 
-- ⚡ Fun fact **Hard Work and Dedication can change anything in World.**
+- ⚡ Fun fact **"Success is no accident. It is hard work, perseverance, learning, studying, sacrifice, and most of all, love of what you are doing or learning to do."-Pelé**
 
 - - 📄 [View my Resume (Last Updated - 24.07.2024)](https://drive.google.com/file/d/1WR1jVRUOQ0-eSzdvzOHh60MuZiJWkuTU/view?usp=sharing)
 
