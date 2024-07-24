@@ -17,11 +17,13 @@
 
 - 👨‍💻 All of my projects are available at [https://3s4a89ebma.codedesign.app/](https://3s4a89ebma.codedesign.app/)
 
-- 💬 Ask me about **Mechanical Designing, Python, Machine Learning, Deep Learning, Natural Language Processing (NLP), and Microcontrollers**
+- 💬 Ask me about **ROS, Mechanical Designing, Python, Machine Learning, Deep Learning, Natural Language Processing (NLP), and Microcontrollers**
 
 - 📫 How to reach me **kondvilkaratique2@gmail.com**
 
 - ⚡ Fun fact **Hard Work and Dedication can change anything in World.**
+
+- - 📄 [View my Resume (Last Updated - 24.07.2024)](https://drive.google.com/file/d/1WR1jVRUOQ0-eSzdvzOHh60MuZiJWkuTU/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
