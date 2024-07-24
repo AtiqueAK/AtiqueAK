@@ -28,7 +28,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/atique-kondvilkar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/atique-kondvilkar/" height="30" width="40" /></a>
-<a href="https://kaggle.com/https://www.kaggle.com/atiquekondvilkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/atiquekondvilkar" height="30" width="40" /></a>
+<a href="https://kaggle.com/atiquekondvilkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/atiquekondvilkar" height="30" width="40" /></a>
 <a href="https://instagram.com/_atique_ak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_atique_ak" height="30" width="40" /></a>
 </p>
 
