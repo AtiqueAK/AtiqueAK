@@ -1,10 +1,10 @@
-<h1 align="center">Hi 👋, I'm Atique Kondvilkar</h1>
-<h3 align="center">Innovative Robotics Engineer with a robust background in both theoretical and practical aspects of robotics engineering, fortified by hands-on experience in mechanical designing, microcontroller applications, data science and process automation.</h3>
+<h1 align="center">Hi 👋, I'm Atique </h1>
+<h3 align="center">Innovative Robotics Engineer Graduated from Heriot Watt University with a robust background in both theoretical and practical aspects of robotics engineering, fortified by hands-on experience in mechanical designing, microcontroller applications, data science and process automation.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atiqueak&label=Profile%20views&color=0e75b6&style=flat" alt="atiqueak" /> </p>
 
 
-<img aling="left" alt="robot" width="200" src="https://i.graphicmama.com/uploads/2023/3/6414793b7befa-602a4f0ed6583-Flying%20Robot%20Cartoon%20Animated%20GIFs.gif">
+<img align="right" alt="webdev" width="250" src="https://i.graphicmama.com/uploads/2023/3/6414793b7befa-602a4f0ed6583-Flying%20Robot%20Cartoon%20Animated%20GIFs.gif">
 
 
 - 🔭 I’m currently working on **Automated image diagnostics for dermatology using deep learning**
