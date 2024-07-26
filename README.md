@@ -1,11 +1,12 @@
-<h1 align="center">Hi 👋, I'm Atique Kondvilkar</h1>
-<h3 align="center">Innovative Robotics Engineer with a robust background in both theoretical and practical aspects of robotics engineering, fortified by hands-on experience in mechanical designing, microcontroller applications, data science and process automation.</h3>
-
-<img aling="right" alt="robot" width="400" src="https://i.graphicmama.com/uploads/2023/3/6414793b7befa-602a4f0ed6583-Flying%20Robot%20Cartoon%20Animated%20GIFs.gif">
+![logo](https://github.com/AtiqueAK/AtiqueAK/blob/main/Atique%20kondvilkar.jpg)
+<h1 align="center">Hi 👋, I'm Atique </h1>
+<h3 align="center">Innovative Robotics Engineer Graduated from Heriot Watt University with a robust background in both theoretical and practical aspects of robotics engineering, fortified by hands-on experience in mechanical designing, microcontroller applications, data science and process automation.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atiqueak&label=Profile%20views&color=0e75b6&style=flat" alt="atiqueak" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=atiqueak" alt="atiqueak" /></a> </p>
+
+<img align="right" alt="webdev" width="250" src="https://i.graphicmama.com/uploads/2023/3/6414793b7befa-602a4f0ed6583-Flying%20Robot%20Cartoon%20Animated%20GIFs.gif">
+
 
 - 🔭 I’m currently working on **Automated image diagnostics for dermatology using deep learning**
 
@@ -17,11 +18,11 @@
 
 - 👨‍💻 All of my projects are available at [https://3s4a89ebma.codedesign.app/](https://3s4a89ebma.codedesign.app/)
 
-- 💬 Ask me about **Mechanical Designing, Python, Machine Learning, Deep Learning, Natural Language Processing (NLP), and Microcontrollers**
+- 💬 Ask me about **Robot Operating System (ROS), Mechanical Systems, Python, Machine Learning, Deep Learning, Natural Language Processing (NLP), Computer Vision, and Embedded Systems**
 
 - 📫 How to reach me **kondvilkaratique2@gmail.com**
 
-- ⚡ Fun fact **Hard Work and Dedication can change anything in World.**
+- ⚡ Fun fact **"Success is no accident. It is hard work, perseverance, learning, studying, sacrifice, and most of all, love of what you are doing or learning to do."-Pelé**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
