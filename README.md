@@ -46,6 +46,3 @@
 ![](https://github-contributor-stats.vercel.app/api?username=AtiqueAK&limit=5&theme=noctis_minimus&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=AtiqueAK&icon=0&color=2)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
