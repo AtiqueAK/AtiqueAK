@@ -1,3 +1,4 @@
+![logo](https://github.com/AtiqueAK/AtiqueAK/blob/main/Atique%20kondvilkar.jpg)
 <h1 align="center">Hi 👋, I'm Atique </h1>
 <h3 align="center">Innovative Robotics Engineer Graduated from Heriot Watt University with a robust background in both theoretical and practical aspects of robotics engineering, fortified by hands-on experience in mechanical designing, microcontroller applications, data science and process automation.</h3>
 
