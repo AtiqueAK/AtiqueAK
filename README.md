@@ -1,4 +1,4 @@
-![logo](https://github.com/AtiqueAK/AtiqueAK/blob/main/Atique%20kondvilkar.jpg)
+![logo](https://media.licdn.com/dms/image/D4D16AQF3ThKfDcpRZw/profile-displaybackgroundimage-shrink_350_1400/0/1702968997637?e=1727308800&v=beta&t=pB0Ws3mJN4cNUGwQmmVdhQYa2AKjDV9He-V73jLsEVc)
 <h1 align="center">Hi 👋, I'm Atique </h1>
 <h3 align="center">Innovative Robotics Engineer Graduated from Heriot Watt University with a robust background in both theoretical and practical aspects of robotics engineering, fortified by hands-on experience in mechanical designing, microcontroller applications, data science and process automation.</h3>
 
