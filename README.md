@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atiqueak&label=Profile%20views&color=0e75b6&style=flat" alt="atiqueak" /> </p>
 
 
-<img align="right" alt="webdev" width="250" src="![image](https://github.com/user-attachments/assets/26d91f5e-459e-4eb6-ac4e-271e751790d3)">
+<img align="right" alt="webdev" width="250" src="https://github.com/user-attachments/assets/eea76c39-5b9b-41aa-9b38-2011fc8b87ac)">
 
 
 - 🔭 I’m currently working on **Automated image diagnostics for dermatology using deep learning**
