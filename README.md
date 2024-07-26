@@ -18,7 +18,7 @@
 
 - 👨‍💻 All of my projects are available at [https://3s4a89ebma.codedesign.app/](https://3s4a89ebma.codedesign.app/)
 
-- 💬 Ask me about **ROS, Mechanical Designing, Python, Machine Learning, Deep Learning, Natural Language Processing (NLP), and Microcontrollers**
+- 💬 Ask me about **ROS, Mechanical Systems, Python, Machine Learning, Deep Learning, Natural Language Processing (NLP), and Microcontrollers**
 
 - 📫 How to reach me **kondvilkaratique2@gmail.com**
 
