@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **Automated image diagnostics for dermatology using deep learning**
 
-- 🌱 I’m currently learning **HTML, Flask**
+- 🌱 I’m currently learning **HTML, Flutter**
 
 - 👯 I’m looking to collaborate on **Agriculture Robot**
 
