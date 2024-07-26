@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atiqueak&label=Profile%20views&color=0e75b6&style=flat" alt="atiqueak" /> </p>
 
 
-<img align="right" alt="webdev" width="250" src="https://i.graphicmama.com/uploads/2023/3/6414793b7befa-602a4f0ed6583-Flying%20Robot%20Cartoon%20Animated%20GIFs.gif">
+<img align="right" alt="webdev" width="250" src="[https://i.graphicmama.com/uploads/2023/3/6414793b7befa-602a4f0ed6583-Flying%20Robot%20Cartoon%20Animated%20GIFs.gif](https://i.gifer.com/origin/60/6081eca09151b4d826481d1fc9895306_w200.webp)">
 
 
 - 🔭 I’m currently working on **Automated image diagnostics for dermatology using deep learning**
