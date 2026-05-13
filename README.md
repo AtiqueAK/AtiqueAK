@@ -29,9 +29,8 @@
 ---
 
 ## 🤖 About Me
-
-````python
-atique = {
+````
+Atique = {
     "role"        : "Lead Robotics & Automation Engineer",
     "company"     : "Alchemizt Interior Decor LLC",
     "location"    : "Abu Dhabi, UAE 🇦🇪",
