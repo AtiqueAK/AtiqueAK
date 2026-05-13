@@ -32,7 +32,7 @@
 ````python
     Role        : Lead Robotics & Automation Engineer
     Company     : Alchemizt Interior Decor LLC
-    Location    : Abu Dhabi, UAE 🇦🇪
+    Location    : Abu Dhabi, UAE
     Education   : MSc Mechatronics, Robotics & Automation — Heriot-Watt University (Merit)
     Experience  : 1.5+ years | Industrial Robotics + CNC + Embedded Systems
     Superpower  : KUKA KRC2 + ROS2 + PLC + 63kW CNC Manufacturing Cell
