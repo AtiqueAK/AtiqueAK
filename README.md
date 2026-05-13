@@ -31,15 +31,14 @@
 ## 🤖 About Me
 ````
 Atique = {
-    "role"        : "Lead Robotics & Automation Engineer",
-    "company"     : "Alchemizt Interior Decor LLC",
-    "location"    : "Abu Dhabi, UAE 🇦🇪",
-    "education"   : "MSc Mechatronics, Robotics & Automation — Heriot-Watt University (Merit)",
-    "experience"  : "1.5+ years | Industrial Robotics + CNC + Embedded Systems",
-    "superpower"  : "KUKA KRC2 + ROS2 + PLC + 63kW CNC Manufacturing Cell",
-    "goal"        : "Senior Robotics & Automation Engineer | AED 15,000–20,000",
-    "open_to"     : ["Robotics Engineer", "Automation Engineer", "Autonomous Systems"],
-    "visa"        : "UAE Employment Visa — Valid until June 2027 ✅"
+    Role        : Lead Robotics & Automation Engineer
+    Company     : Alchemizt Interior Decor LLC
+    Location    : Abu Dhabi, UAE 🇦🇪
+    Education   : MSc Mechatronics, Robotics & Automation — Heriot-Watt University (Merit)
+    Experience  : 1.5+ years | Industrial Robotics + CNC + Embedded Systems
+    Superpower  : KUKA KRC2 + ROS2 + PLC + 63kW CNC Manufacturing Cell
+    Goal        : Senior Robotics & Automation Engineer
+    Visa        : UAE Employment Visa — Valid until June 2027 ✅
 }
 ````
 ---
