@@ -29,8 +29,6 @@
 ---
 
 ## 🤖 About Me
-
-```python
 atique = {
     "role"        : "Lead Robotics & Automation Engineer",
     "company"     : "Alchemizt Interior Decor LLC",
@@ -42,7 +40,6 @@ atique = {
     "open_to"     : ["Robotics Engineer", "Automation Engineer", "Autonomous Systems"],
     "visa"        : "UAE Employment Visa — Valid until June 2027 ✅"
 }
-```
 
 ---
 
