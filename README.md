@@ -29,8 +29,7 @@
 ---
 
 ## 🤖 About Me
-````
-Atique = {
+````python
     Role        : Lead Robotics & Automation Engineer
     Company     : Alchemizt Interior Decor LLC
     Location    : Abu Dhabi, UAE 🇦🇪
@@ -39,7 +38,6 @@ Atique = {
     Superpower  : KUKA KRC2 + ROS2 + PLC + 63kW CNC Manufacturing Cell
     Goal        : Senior Robotics & Automation Engineer
     Visa        : UAE Employment Visa — Valid until June 2027 ✅
-}
 ````
 ---
 
