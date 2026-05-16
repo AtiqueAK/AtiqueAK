@@ -217,9 +217,6 @@ Career_Goal:
 
 > *"The best engineers are not the ones who know the most — they are the ones who build things that work in the real world."*
 
----
-
----
 <div align="center">
 
 ![footer](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3000&pause=1000&color=2E75B6&center=true&vCenter=true&width=700&lines=Thanks+for+visiting+my+profile!+🤖;Let's+build+something+amazing+together!;Open+to+Robotics+%26+Automation+roles+in+UAE;kondvilkaratique2%40gmail.com)
