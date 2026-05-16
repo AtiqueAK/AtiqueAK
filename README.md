@@ -223,9 +223,6 @@ Career_Goal:
 <div align="center">
 
 ![footer](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3000&pause=1000&color=2E75B6&center=true&vCenter=true&width=700&lines=Thanks+for+visiting+my+profile!+🤖;Let's+build+something+amazing+together!;Open+to+Robotics+%26+Automation+roles+in+UAE;kondvilkaratique2%40gmail.com)
-
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:2E75B6,100:1B3A6B&height=80&section=footer)
-
 </div>
 
 <div align="center">
