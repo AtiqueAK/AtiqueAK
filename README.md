@@ -219,7 +219,20 @@ Career_Goal:
 
 ---
 
-<!-- Footer -->
+---
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E75B6,100:1B3A6B&height=100&section=footer" width="100%"/>
+
+### 💬 Engineering Philosophy
+
+*"The best automation is invisible — it just works, every time."*
+
+<br/>
+
+**Made with** ❤️ **in Abu Dhabi, UAE 🇦🇪**
+
+[![LinkedIn](https://img.shields.io/badge/Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/atique-kondvilkar/)&nbsp;&nbsp;[![Email](https://img.shields.io/badge/Hire_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kondvilkaratique2@gmail.com)
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:2E75B6,100:1B3A6B&height=80&section=footer)
+
 </div>
