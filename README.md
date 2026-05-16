@@ -17,11 +17,7 @@
 ## 🤖 About Me
 
 ```yaml
-# ══════════════════════════════════════════════════
-#   Atique Kondvilkar — Robotics & Automation Engineer
-# ══════════════════════════════════════════════════
 
-Identity:
   Name          : Atique Kondvilkar
   Role          : Lead Robotics & Automation Engineer
   Company       : Alchemizt Interior Decor LLC
@@ -44,9 +40,9 @@ Experience:
 
 Superpowers:
   Robotics      : KUKA KRC2 | ROS2 | SLAM | MoveIt2 | Gazebo
-  Programming   : Python | C++ | MATLAB | SRC (KUKA)
-  Design        : SolidWorks | AutoCAD | Rhino 7 | Grasshopper | Ansys
-  Production    : Infurnia | MES Portal | Barcode Integration
+  Programming   : Python | C++ | MATLAB | SRC (KUKA) | Embedded Programming
+  Design        : Fusion | AutoCAD | Rhino 7 | Grasshopper | Ansys | Matlab
+  Production    : Large Scale 3D Prints | Infurnia | MES Portal | Barcode Integration
 
 Achievements:
   Print_Accuracy     : +25% improvement via KUKA toolpath optimization
@@ -72,10 +68,10 @@ Career_Goal:
 
 | Domain | Technologies | Impact |
 |--------|-------------|--------|
-| 🤖 Robotics | KUKA KRC2, KUKA\|prc, Grasshopper, Rhino 7 | **+25% print accuracy** |
+| 🤖 Robotics | KUKA KRC2, KUKA\|prc, Grasshopper, Rhino 7, Fusion | **+25% print accuracy** |
 | ⚙️ Automation | WAGO PLC, VFD, Servo Motors, SYNTEC CNC | **-40% manual processes** |
 | 🏭 CNC | Nanxing NB7CJ, NPC330, NCB612S (63kW+) | **+20% machine uptime** |
-| 📊 Production | Infurnia, MES Portal, Barcode Integration | **-35% prep time** |
+| 📊 Production | Large Scale 3D Prints, Infurnia, MES Portal, Barcode Integration | **-35% prep time** |
 
 ---
 
