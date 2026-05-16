@@ -1,6 +1,6 @@
 <!-- Header Banner -->
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1B3A6B,100:2E75B6&height=200&section=header&text=Atique%20Kondvilkar&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Robotics%20%26%20Automation%20Engineer%20%7C%20Abu%20Dhabi%2C%20UAE%20🇦🇪&descAlignY=58&descSize=18" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1B3A6B,100:2E75B6&height=200&section=header&text=Atique%20Kondvilkar&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Robotics%20%26%20Automation%20Engineer%20%7C%20Abu%20Dhabi%2C%20UAE%20🇦🇪&descAlignY=58&descSize=18" width="100%">
 </div>
 
 <!-- Profile Views + Badges -->
