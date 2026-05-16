@@ -1,7 +1,6 @@
-<!-- Header Banner -->
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:1B3A6B,100:2E75B6&height=200&section=header&text=Atique%20Kondvilkar&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Robotics%20%26%20Automation%20Engineer%20%7C%20Abu%20Dhabi%20UAE&descAlignY=58&descSize=18)
+![header](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=2E75B6&center=true&vCenter=true&width=700&lines=Atique+Kondvilkar;Lead+Robotics+%26+Automation+Engineer;KUKA+KRC2+%7C+ROS2+%7C+PLC+%7C+Abu+Dhabi+UAE)
 
 </div>
 
