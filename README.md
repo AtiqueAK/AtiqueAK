@@ -4,22 +4,10 @@
 
 </div>
 
-<!-- Profile Views + Badges -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=AtiqueAK&label=Profile%20Views&color=1B3A6B&style=for-the-badge" alt="profile views"/>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/atique-kondvilkar/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="mailto:kondvilkaratique2@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="https://3s4a89ebma.codedesign.app/">
-    <img src="https://img.shields.io/badge/Portfolio-1B3A6B?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-  </a>
-  &nbsp;
+
+[![Profile Views](https://komarev.com/ghpvc/?username=AtiqueAK&label=Profile%20Views&color=1B3A6B&style=for-the-badge)](https://github.com/AtiqueAK)&nbsp;&nbsp;[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/atique-kondvilkar/)&nbsp;&nbsp;[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kondvilkaratique2@gmail.com)&nbsp;&nbsp;[![Portfolio](https://img.shields.io/badge/Portfolio-1B3A6B?style=for-the-badge&logo=google-chrome&logoColor=white)](https://3s4a89ebma.codedesign.app/)&nbsp;&nbsp;[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/atiquekondvilkar)
+
 </div>
 
 <br/>
