@@ -20,9 +20,6 @@
     <img src="https://img.shields.io/badge/Portfolio-1B3A6B?style=for-the-badge&logo=google-chrome&logoColor=white"/>
   </a>
   &nbsp;
-  <a href="https://www.kaggle.com/atiquekondvilkar">
-    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
-  </a>
 </div>
 
 <br/>
