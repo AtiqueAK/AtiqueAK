@@ -24,32 +24,11 @@
   Location      : Abu Dhabi, UAE 🇦🇪
   Visa          : UAE Employment Visa — Valid until June 2027 ✅
 
-Education:
-  Masters       : MSc Mechatronics, Robotics & Automation
-  University    : Heriot-Watt University, Dubai
-  Grade         : Merit 🏅
-  Bachelors     : BE Mechanical Engineering — University of Mumbai
-  GPA           : 8.44 / 10
-
-Experience:
-  Duration      : 1.5+ years in UAE Industry
-  Current       : KUKA KRC2 Robotic 3D Printing Production
-  CNC_Cell      : 63kW Nanxing Manufacturing Suite (NB7CJ | NPC330 | NCB612S)
-  Embedded      : STM32 | FreeRTOS | CAN | SPI | I2C | UART
-  Automation    : PLC | VFD | Servo Motors | HMI | SYNTEC CNC
-
 Superpowers:
   Robotics      : KUKA KRC2 | ROS2 | SLAM | MoveIt2 | Gazebo
   Programming   : Python | C++ | MATLAB | SRC (KUKA) | Embedded Programming
   Design        : Fusion | AutoCAD | Rhino 7 | Grasshopper | Ansys | Matlab
   Production    : Large Scale 3D Prints | Infurnia | MES Portal | Barcode Integration
-
-Achievements:
-  Print_Accuracy     : +25% improvement via KUKA toolpath optimization
-  Manual_Reduction   : -40% through automated extrusion workflows
-  Efficiency_Gain    : +30% via parametric toolpath strategies
-  Prep_Time          : -35% via design-to-production automation
-  Machine_Uptime     : +20% via preventive maintenance systems
 
 Career_Goal:
   Target_Role   : Senior Robotics & Automation Engineer
