@@ -15,16 +15,52 @@
 ---
 
 ## 🤖 About Me
-````python
-    Role        : Lead Robotics & Automation Engineer
-    Company     : Alchemizt Interior Decor LLC
-    Location    : Abu Dhabi, UAE
-    Education   : MSc Mechatronics, Robotics & Automation — Heriot-Watt University (Merit)
-    Experience  : 1.5+ years | Industrial Robotics + CNC + Embedded Systems
-    Superpower  : KUKA KRC2 + ROS2 + PLC + 63kW CNC Manufacturing Cell
-    Goal        : Senior Robotics & Automation Engineer
-    Visa        : UAE Employment Visa — Valid until June 2027 ✅
-````
+
+```yaml
+# ══════════════════════════════════════════════════
+#   Atique Kondvilkar — Robotics & Automation Engineer
+# ══════════════════════════════════════════════════
+
+Identity:
+  Name          : Atique Kondvilkar
+  Role          : Lead Robotics & Automation Engineer
+  Company       : Alchemizt Interior Decor LLC
+  Location      : Abu Dhabi, UAE 🇦🇪
+  Visa          : UAE Employment Visa — Valid until June 2027 ✅
+
+Education:
+  Masters       : MSc Mechatronics, Robotics & Automation
+  University    : Heriot-Watt University, Dubai
+  Grade         : Merit 🏅
+  Bachelors     : BE Mechanical Engineering — University of Mumbai
+  GPA           : 8.44 / 10
+
+Experience:
+  Duration      : 1.5+ years in UAE Industry
+  Current       : KUKA KRC2 Robotic 3D Printing Production
+  CNC_Cell      : 63kW Nanxing Manufacturing Suite (NB7CJ | NPC330 | NCB612S)
+  Embedded      : STM32 | FreeRTOS | CAN | SPI | I2C | UART
+  Automation    : PLC | VFD | Servo Motors | HMI | SYNTEC CNC
+
+Superpowers:
+  Robotics      : KUKA KRC2 | ROS2 | SLAM | MoveIt2 | Gazebo
+  Programming   : Python | C++ | MATLAB | SRC (KUKA)
+  Design        : SolidWorks | AutoCAD | Rhino 7 | Grasshopper | Ansys
+  Production    : Infurnia | MES Portal | Barcode Integration
+
+Achievements:
+  Print_Accuracy     : +25% improvement via KUKA toolpath optimization
+  Manual_Reduction   : -40% through automated extrusion workflows
+  Efficiency_Gain    : +30% via parametric toolpath strategies
+  Prep_Time          : -35% via design-to-production automation
+  Machine_Uptime     : +20% via preventive maintenance systems
+
+Career_Goal:
+  Target_Role   : Senior Robotics & Automation Engineer
+  Target_Salary : AED 15,000 – 20,000/month
+  Open_To       : ["Robotics Engineer", "Automation Engineer", "Autonomous Systems"]
+  Available     : Immediately ⚡
+```
 ---
 
 ## 💼 Professional Experience
